@@ -8,4 +8,4 @@ luego de proceder con todo el relevamiento, tanto fisico como lo extraido de los
 
 ![image](https://github.com/Cristian-Dorado/Analisis_Inventario/assets/113219668/480b9a9b-1601-4dd9-afe5-43ff357a55e6)
 
-
+https://github.com/Cristian-Dorado/Analisis_Inventario/blob/74d7641ec0b6e3ac961fd8953cc6c8487e8102f7/Notebook%201.ipynb
