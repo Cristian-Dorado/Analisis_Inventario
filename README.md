@@ -6,5 +6,5 @@ Para este fin se decide realizar una recontrucción del inventario. tomando como
 
 luego de proceder con todo el relevamiento, tanto fisico como lo extraido de los sistemas y reportes se procedio a adjuntar por colimnas toda esta informacion en una sola planilla excel, tomando en cuenta que la infirmación de estas plataformas no se encuentran completas y/o actualizadas, pudiendo generar información incompleta o duplicidad de la misma. por tal motivo es de mucha importancia tomar en cuenta cualquier informacion conocida de estas cajas estacionarias, el cual permita poder realizar un seguimiento de todos los movimiento conocidos de dichas cajas.
 
-
+https://github.com/Cristian-Dorado/Analisis_Inventario/blob/1308528cfcd6da8a3c0f6ca33c70093e88f72b0d/Captura.PNG
 
